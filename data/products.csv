@@ -1,4 +1,4 @@
-SKU,Product Class,Product Family,MSRP ($),Margin (%)
-Alpha,A,X1-G3,99.99,35
-Beta,A,X1-G3,79.99,20
-Gamma,B,X1-S7,39.99,40
+SKU,Product Family,MSRP ($),Margin (%)
+A,1,99.99,35
+B,1,79.99,20
+C,2,39.99,40
